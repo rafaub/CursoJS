@@ -1,0 +1,35 @@
+body {
+    background: rgb(151, 110, 197);
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+section>div>div>p {
+    font-family: Arial, "Margarine", sans-serif;
+    font-style: normal;
+}
+
+header {
+    color: rgb(19, 17, 17);
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.63);
+}
+
+select#flista {
+    width: 150px;
+}
+
+#res > p {
+    font-family: Arial, "Margarine", sans-serif;
+    font-style: normal;
+}
+
